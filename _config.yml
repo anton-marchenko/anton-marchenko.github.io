@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title:       "Page title"
+header_title: "Header Title"
+author:      Антон Марченко
+description: "My blog description"
+date_format: "%-d.%m.%Y"
